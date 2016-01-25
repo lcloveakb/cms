@@ -10,3 +10,5 @@
 
 目前实现了news的添加和查询
 待补完..
+
+![image](https://github.com/lcloveakb/cms/blob/master/demo.png)
